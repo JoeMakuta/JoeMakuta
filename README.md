@@ -1,4 +1,4 @@
-<h1 > Hello Dear < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 > Hello there ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <p >
   <a  href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=My+name+is+Josh+Makuta;Welcome+to+my+GitHub+Profile!;I'm+a+Fullstack+Web+Developer;I'm+a+Computer+Science+engineer" /></a>
