@@ -16,7 +16,10 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://wa.me/+243972383759" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+   <a href="https://josuemakuta.vercel.app/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-gray?style=for-the-badge&logo=portfolio&logoColor=white">
   </a>
 
 <!-- **JoeMakuta/JoeMakuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
